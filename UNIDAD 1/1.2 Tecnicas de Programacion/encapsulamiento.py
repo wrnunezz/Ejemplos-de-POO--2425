@@ -23,4 +23,4 @@ print(mi_cuenta.obtener_saldo())
 mi_cuenta.retirar(20)
 print(mi_cuenta.obtener_saldo())
 
-
+print(mi_cuenta.__saldo)
