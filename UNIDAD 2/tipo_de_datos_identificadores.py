@@ -11,5 +11,5 @@ altura= 20
 
 triangulo = Triangulo(base,altura)
 resultado = triangulo.area()
-print(resultado)
+print("La respuesta",resultado)
 
